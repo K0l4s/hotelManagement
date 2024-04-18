@@ -14,6 +14,7 @@ const Router = () => {
             <Route path="branch" element={<Branch/>} />
             <Route path="dashboard" element={null} />
             <Route path="service" element={<Service/>} />
+            <Route path="booking" element={null}/>
         </Routes>
         <div onClick={()=>window.scrollTo(0,0)} className="returnToTop">
         </div>
