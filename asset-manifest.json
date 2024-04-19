@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hotelManagement/static/css/main.b33a7d69.css",
+    "main.js": "/hotelManagement/static/js/main.a825994b.js",
+    "static/js/453.e6a36161.chunk.js": "/hotelManagement/static/js/453.e6a36161.chunk.js",
+    "index.html": "/hotelManagement/index.html",
+    "main.b33a7d69.css.map": "/hotelManagement/static/css/main.b33a7d69.css.map",
+    "main.a825994b.js.map": "/hotelManagement/static/js/main.a825994b.js.map",
+    "453.e6a36161.chunk.js.map": "/hotelManagement/static/js/453.e6a36161.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b33a7d69.css",
+    "static/js/main.a825994b.js"
+  ]
+}
